@@ -1,7 +1,7 @@
 # Hello, folks
 sometimes I code things
 
-- 👨🏾‍💻 working as Senior FrontEnd Developer @ [devsalsa](https://devsalsa.com/)
+- 👨🏾‍💻 Senior FrontEnd Developer
 - 💪🏾 project coordinator and mentor @ [FutureLab](https://futurelab.mx/)
 - ⚡ Javascript evangelist
 - 💚 In love with [Vue](https://github.com/vuejs/), [Nuxt](https://github.com/nuxt/nuxt) and [TailwindCSS](https://github.com/tailwindlabs/tailwindcss)
